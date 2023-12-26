@@ -208,7 +208,7 @@ lookCar()—查看車輛資訊。
    
 ![登陸介面設計](https://github.com/ycc17/final_report/assets/91513230/6d6e1850-e03c-411d-a5a0-fe0bba227b03)  
   圖4-1登陸介面設計  
-3. 車輛資訊管理mainWindows.java
+2. 車輛資訊管理mainWindows.java
 
 ![車輛資訊管理介面設計](https://github.com/ycc17/final_report/assets/91513230/c9da395d-27fc-47a6-9565-9644dbda69f5)  
   圖4-2車輛資訊管理介面設計  
