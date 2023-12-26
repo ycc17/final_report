@@ -206,30 +206,30 @@ lookCar()—查看車輛資訊。
 ### 4.4互動介面設計
 1. 登陸logOn.java
    
-![登陸介面設計](https://github.com/ycc17/final_report/assets/91513230/6d6e1850-e03c-411d-a5a0-fe0bba227b03)
+![登陸介面設計](https://github.com/ycc17/final_report/assets/91513230/6d6e1850-e03c-411d-a5a0-fe0bba227b03)  
   圖4-1登陸介面設計  
 3. 車輛資訊管理mainWindows.java
 
-![車輛資訊管理介面設計](https://github.com/ycc17/final_report/assets/91513230/c9da395d-27fc-47a6-9565-9644dbda69f5)
+![車輛資訊管理介面設計](https://github.com/ycc17/final_report/assets/91513230/c9da395d-27fc-47a6-9565-9644dbda69f5)  
   圖4-2車輛資訊管理介面設計  
   
-![瀏覽車輛信息](https://github.com/ycc17/final_report/assets/91513230/c407e72f-5624-4d1a-8d09-2f93d8b5b409)
+![瀏覽車輛信息](https://github.com/ycc17/final_report/assets/91513230/c407e72f-5624-4d1a-8d09-2f93d8b5b409)  
   圖4-3瀏覽車輛信息  
   
-![新增車輛信息](https://github.com/ycc17/final_report/assets/91513230/600271b9-384a-41a4-bba1-f9dca2114fe7)
+![新增車輛信息](https://github.com/ycc17/final_report/assets/91513230/600271b9-384a-41a4-bba1-f9dca2114fe7)  
   圖4-4新增車輛信息  
-  
-![新增出庫車輛信息](https://github.com/ycc17/final_report/assets/91513230/7c0a769a-28c1-4512-86b6-eccdf061c940)
+   
+![新增出庫車輛信息](https://github.com/ycc17/final_report/assets/91513230/7c0a769a-28c1-4512-86b6-eccdf061c940)  
   圖4-5新增出庫車輛信息  
   
 6. 刪除車輛資訊DelCar.java
    
-![刪除車輛信息](https://github.com/ycc17/final_report/assets/91513230/48d96d0e-7108-4efc-bd0d-24a544d73d82)
+![刪除車輛信息](https://github.com/ycc17/final_report/assets/91513230/48d96d0e-7108-4efc-bd0d-24a544d73d82)  
   圖4-6刪除車輛信息
 
 7. 查詢車輛資訊findCar.java
    
-   ![查詢車輛信息](https://github.com/ycc17/final_report/assets/91513230/70b1d6ec-4677-4ba7-b79a-8872b166137e)
+   ![查詢車輛信息](https://github.com/ycc17/final_report/assets/91513230/70b1d6ec-4677-4ba7-b79a-8872b166137e)  
   圖4-7查詢車輛信息  
 ## 第五章面向對象實現
 ### 5.1停車場資訊管理系統編碼實現
