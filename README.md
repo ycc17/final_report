@@ -142,7 +142,7 @@
 ![图3-3添加车辆信息时序图 drawio](https://github.com/ycc17/final_report/assets/91513230/b6fa860d-9e86-487c-98f1-61c61410f840)  
 圖3-3新增車輛資訊時序圖
 ![图3-5查找车辆信息时序图 drawio](https://github.com/ycc17/final_report/assets/91513230/df932e19-6898-40da-bebe-fe85f03436b7)  
-圖3-5找出車輛資訊時序圖
+圖3-5找出車輛資訊時序圖  
 ![图3-6查看车辆信息时序图 drawio](https://github.com/ycc17/final_report/assets/91513230/296d36a3-1360-4c6f-a1d3-7f5788fc3773)  
 圖3-6查看車輛資訊時序圖
 ### 3.2分析類模型
