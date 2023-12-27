@@ -11,8 +11,10 @@
 ![图1-1 业务用例模型 drawio](https://github.com/ycc17/final_report/assets/91513230/dc8152f9-fe7b-4849-a3f2-1c55cc0f68ba)  
 圖1-1 業務用例模型
 #### 1.3.2車主業務活動圖
+![图1-2车主业务活动图 drawio](https://github.com/ycc17/final_report/assets/91513230/7f13b5c6-2e16-426e-8e64-8609262ce9aa)  
 圖1-2車主業務活動圖
 #### 1.3.3管理員業務活動圖
+![图1-3管理员业务活动图 drawio](https://github.com/ycc17/final_report/assets/91513230/cd51d637-a400-421e-93e3-1079b635a18d)  
 圖1-3管理員業務活動圖
 ## 第二章需求分析
 ### 2.1系統用例建模（根據對1.2的分析進行系統用例建模）
@@ -23,8 +25,8 @@
 1. 車主來到有剩餘車位的停車場，進入停車場停車，支付停車費用後離開停車場
 1. 管理員輸入正確的帳號和密碼登陸系統，管理車輛進出的訊息，包括車牌號碼，進出時間，停車費費用。
 #### 2.1.3用例關係
-正在上傳…重新上傳取消
-
+正在上傳…重新上傳取消  
+![图2-1系统用例图 drawio](https://github.com/ycc17/final_report/assets/91513230/636676b9-6c02-40d8-82dd-9f4351f148d4)  
 圖2-1系統用例圖
 ### 2.2用例規約說明
 表2-1 「進入停車場」用例規約a
@@ -132,23 +134,21 @@
 | **後置條件：**  | 	車輛的詳細資料已從系統中刪除。  |
 ## 第三章面向對象分析
 ### 3.1用例實現
-使用順序圖，按BCE架構實現每個用例
-
+使用順序圖，按BCE架構實現每個用例  
+![图3-1登陆时序图 drawio](https://github.com/ycc17/final_report/assets/91513230/f987db6e-80b0-4532-8fe2-815cb967105b)  
 圖3-1登陸時序圖
-
+![图3-2删除车辆信息时序图 drawio](https://github.com/ycc17/final_report/assets/91513230/f67a2670-8885-459c-b3a6-ff645de3587d)  
 圖3-2刪除車輛資訊時序圖
-
+![图3-3添加车辆信息时序图 drawio](https://github.com/ycc17/final_report/assets/91513230/b6fa860d-9e86-487c-98f1-61c61410f840)  
 圖3-3新增車輛資訊時序圖
-
+![图3-5查找车辆信息时序图 drawio](https://github.com/ycc17/final_report/assets/91513230/df932e19-6898-40da-bebe-fe85f03436b7)  
 圖3-5找出車輛資訊時序圖
-
+![图3-6查看车辆信息时序图 drawio](https://github.com/ycc17/final_report/assets/91513230/296d36a3-1360-4c6f-a1d3-7f5788fc3773)  
 圖3-6查看車輛資訊時序圖
 ### 3.2分析類模型
 建立系統的分析類別圖，為每個類別分配職責、屬性，及對類別之間的關係建模
+![3 2分析类模型 drawio](https://github.com/ycc17/final_report/assets/91513230/81ca3d94-a8ab-4024-9ac1-afe263168152)
 
-圖
-
-圖
 ## 第四章物件導向設計
 ### 4.1資料庫設計
 資料庫結構
